@@ -1,10 +1,11 @@
 ---
-layout: default
+layout: home
 image: arnolds.life/assets/img/winter_beach_JZ.jpg
 ---
 
 <div class="home">
-
+ 
+ ![Testing picture]({{"/assets/img/winter_beach_JZ.jpg" | absolute_url}})
   <h1 class="page-heading">Posts</h1>
 
   <ul class="post-list">
