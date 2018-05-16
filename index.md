@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 image: arnolds.life/assets/img/winter_beach_JZ.jpg
 ---
 
