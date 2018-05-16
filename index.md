@@ -3,9 +3,11 @@ layout: default
 image: /assets/img/winter_beach_JZ.jpg
 ---
 
+
+ ![Testing picture](https://github.com/kodova/arnolds.life/blob/master/assets/img/winter_beach_JZ.jpg)
+
 <div class="home">
  
- ![Testing picture](https://github.com/kodova/arnolds.life/blob/master/assets/img/winter_beach_JZ.jpg)
   <h1 class="page-heading">Posts</h1>
 
   <ul class="post-list">
