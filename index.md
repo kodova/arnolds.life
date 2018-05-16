@@ -4,7 +4,7 @@ image: /assets/img/winter_beach_JZ.jpg
 ---
 
 
- ![Testing picture](https://github.com/kodova/arnolds.life/blob/master/assets/img/winter_beach_JZ.jpg)
+ ![Testing picture](arnolds.life/assets/img/winter_beach_JZ.jpg)
 
 <div class="home">
  
