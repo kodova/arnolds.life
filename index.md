@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: posts
 image: arnolds.life/assets/img/winter_beach_JZ.jpg
 ---
 
