@@ -4,7 +4,7 @@ image: /assets/img/winter_beach_JZ.jpg
 ---
 
 
- ![Testing picture](arnolds.life/assets/img/winter_beach_JZ.jpg)
+ ![Testing picture](/assets/img/winter_beach_JZ.jpg)
 
 <div class="home">
  
