@@ -1,6 +1,7 @@
 ---
 layout: default
-image: /assets/img/winter_beach_JZ.jpg
+headers: 
+  image: /assets/img/winter_beach_JZ.jpg
 ---
 
 
